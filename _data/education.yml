@@ -1,13 +1,12 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Economics
+  uni: American University of Central Asia
+  year: 2015 &mdash; 2019
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+  summary: I am studying economics with excellence and doing minor in applied math and programming at the same time.
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: JavaScript developer
+  uni: Attractor School
+  year: 2017
+  award:
+  summary: 15 months of intensive studying JavaScript, React.js, Node.js, mongoDB, mongoose.
