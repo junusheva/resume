@@ -18,9 +18,9 @@ resume_contact_email:           "aikojune@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "+996 779 618 280"
-resume_contact_address:         "Microdistrict 4th 2/1, Bishkek, Kyrgyzstan"
+resume_contact_address:         
 
-resume_header_contact_info:     "Microdistrict 4th 2/1, Bishkek, Kyrgyzstan • +996 779 618 280 • aikojune@gmail.com"
+resume_header_contact_info:     "+996 779 618 280 • aikojune@gmail.com"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>A girl with great potential, excessive ambitions and willing to help this world.</p>"
