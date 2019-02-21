@@ -95,6 +95,34 @@
       </section>
       <!-- end Education -->
       {% endif %}
+    
+    
+    
+    {% if site.resume_section_accomplishments %}
+      <!-- begin Accomplishments -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Accomplishments</h2>
+        </header>
+
+        {% for accomplishments in site.data.accomplishments %}
+        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name">Awards</h3>
+          <h4 class="resume-item-details group" itemprop="description">{{ accomplishments.award }} &bull; {{ accomplishments.year }}</h4>
+          <h5 class="resume-item-details award-title" itemprop="description">{{ education.award }}</h5>
+          
+          <h3 class="resume-item-title" itemprop="name">Courses</h3>
+          <p class="resume-item-copy">{{ education.course_name }}</p>
+           
+
+
+          
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Education -->
+      {% endif %}
+
 
 
       {% if site.resume_section_projects %}
