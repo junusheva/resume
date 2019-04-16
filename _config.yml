@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Aijan Junusheva"
-resume_title:                   "JavaScript developer"
+resume_title:                   "Fullstack developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "aikojune@gmail.com"
@@ -49,7 +49,7 @@ resume_social_links:
 #  resume_twitter_url:           "http://twitter.com/jglovier"
 #  resume_dribbble_url:          "https://dribbble.com/jag"
   resume_facebook_url:          "https://www.facebook.com/aikojunusheva"
-  resume_linkedin_url:          "https://www.linkedin.com/in/aizhan-zhunusheva-93259a133"
+  resume_linkedin_url:          "https://www.linkedin.com/in/junusheva/"
   resume_instagram_url:         "https://www.instagram.com/junusheva"
   resume_bitbucket_url:         "https://bitbucket.org/aijanka"
 #  resume_website_url:           "http://joelglovier.com"
